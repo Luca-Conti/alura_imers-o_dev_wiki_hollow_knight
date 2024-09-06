@@ -1,4 +1,4 @@
-## Wiki de Hollow Knight: Uma Aventura Codificada! ⚔️
+## Wiki de Hollow Knight: Uma Aventura Codificada - imersão dev com google gemini alura
 
 **O que é isso?**
 
