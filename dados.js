@@ -141,6 +141,6 @@ let dados = [
         titulo: "Receptáculo Puro",
         descrição: "O Receptáculo Puro é um chefe opcional de Hollow Knight introduzido em Deus Mestre. Ele é a forma primordial do Cavaleiro Vazio, a forma não afetada pela Infecção.",
         link: "https://hollowknight.fandom.com/pt/wiki/Recept%C3%A1culo_Puro",
-        tags: "Receptáculo Puro, receptaculo, pantao, panteão, 4, cavaleiro vazio, panteão do cavalheiro, panteao do cavalheiro, panteão de hallownest, panteao de hallownest, receptaculo puro, Receptaculo Puro"
+        tags: "Receptáculo Puro, receptaculo, pantao, panteão, 4, cavaleiro vazio, panteão do cavalheiro, panteao do cavalheiro, panteão de hallownest, panteao de hallownest, receptaculo puro, Receptaculo Puro, puro"
     },
     ]
